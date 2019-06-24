@@ -1,0 +1,26 @@
+[
+{"examen":[
+    {"id":"6","nombre_exam":"SIS-316","dur_examen":"5","cant_repeticiones":"0","ver_res_correc":"","ver_res_incorrec":""},
+    {"id":"7","nombre_exam":"SHC-134","dur_examen":"10","cant_repeticiones":"0","ver_res_correc":"","ver_res_incorrec":""},
+    {"id":"13","nombre_exam":"SIS-102","dur_examen":"20","cant_repeticiones":"1","ver_res_correc":"SI","ver_res_incorrec":"SI"},
+    {"id":"17","nombre_exam":"prueba","dur_examen":"10","cant_repeticiones":"2","ver_res_correc":"si","ver_res_incorrec":"si"},
+    {"id":"21","nombre_exam":"prueba 2","dur_examen":"10","cant_repeticiones":"2","ver_res_correc":"NO","ver_res_incorrec":"NO"},
+    {"id":"23","nombre_exam":"testing","dur_examen":"10","cant_repeticiones":"3","ver_res_correc":"SI","ver_res_incorrec":"SI"}
+    ]},
+
+
+{"pregunta":[
+    {"id":"11","examen":"5","pregunta":"asdasd","tipo":"Verdadero/Falso","obj1":"","obj2":"","obj3":"","obj4":"","v_f":"Falso","una_palabra":"","respuesta":"Falso"},
+    {"id":"12","examen":"5","pregunta":"El jose esta durmiendo?","tipo":" Opcion multiple","obj1":"Si","obj2":"No ","obj3":"Tal vez","obj4":"Esta dormido","v_f":"","una_palabra":"","respuesta":"No "},
+    {"id":"14","examen":"4","pregunta":"algo","tipo":"Verdadero/Falso","obj1":"","obj2":"","obj3":"","obj4":"","v_f":"Falso","una_palabra":"","respuesta":"Falso"},
+    {"id":"15","examen":"7","pregunta":"sdasda","tipo":"Una palabra","obj1":"","obj2":"","obj3":"","obj4":"","v_f":"","una_palabra":"sda","respuesta":"sda"},
+    {"id":"16","examen":"6","pregunta":"asdasd","tipo":"Verdadero/Falso","obj1":"","obj2":"","obj3":"","obj4":"","v_f":"Falso","una_palabra":"","respuesta":"Falso"},
+    {"id":"33","examen":"7","pregunta":"que es software?","tipo":" Opcion varias","obj1":"web","obj2":"deep learning","obj3":"juegos","obj4":"!Os","v_f":"","una_palabra":"","respuesta":"web,deep learning,juegos,!Os"}
+    ]},
+
+
+{"usuario":[
+    {"id":"1","nombre_usuario":"admin","password":"admin","nombre":"Jhonatan","apellido":"Hurtado alias el chinin","emailid":"admin@gmail.com"}
+    ]}
+
+]
